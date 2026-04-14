@@ -4,10 +4,8 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Points
-  - Collectable
-  - Danger
-  - FinJeu
+  - Circle
+  - cercle
   layers:
   - Default
   - TransparentFX
