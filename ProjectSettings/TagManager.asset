@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Circle
   - cercle
+  - Terminal
+  - Sol
   layers:
   - Default
   - TransparentFX
